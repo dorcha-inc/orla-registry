@@ -1,0 +1,17 @@
+version: 1
+registry_url: https://github.com/dorcha-inc/orla-registry
+tools:
+  - name: coinflip
+    description: Flip a coin and return heads or tails
+    repository: https://github.com/dorcha-inc/orla-tool-coinflip
+    versions:
+      - version: 0.1.0
+        tag: v0.1.0
+    maintainer: dorcha-inc
+    keywords:
+      - random
+      - coin
+      - flip
+      - heads
+      - tails
+
