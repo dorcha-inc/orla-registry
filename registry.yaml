@@ -11,4 +11,13 @@ tools:
       - flip
       - heads
       - tails
+  - name: file-read
+    description: Read and return the contents of a file
+    repository: https://github.com/dorcha-inc/orla-tool-file-read
+    maintainer: dorcha-inc
+    keywords:
+      - file
+      - read
+      - filesystem
+      - io
 
