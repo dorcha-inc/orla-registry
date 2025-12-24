@@ -4,9 +4,6 @@ tools:
   - name: coinflip
     description: Flip a coin and return heads or tails
     repository: https://github.com/dorcha-inc/orla-tool-coinflip
-    versions:
-      - version: 0.1.1
-        tag: v0.1.1
     maintainer: dorcha-inc
     keywords:
       - random
