@@ -11,13 +11,20 @@ tools:
       - flip
       - heads
       - tails
-  - name: readfile
-    description: Read and return the contents of a file
-    repository: https://github.com/dorcha-inc/orla-tool-file-read
+  - name: fs
+    description: Comprehensive file system operations tool for reading, writing, listing, and managing files and directories
+    repository: https://github.com/dorcha-inc/orla-tool-fs
     maintainer: dorcha-inc
     keywords:
       - file
-      - read
       - filesystem
+      - directory
       - io
+      - read
+      - write
+      - list
+      - mkdir
+      - rm
+      - mv
+      - cp
 
